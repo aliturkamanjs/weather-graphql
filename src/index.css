@@ -7,3 +7,27 @@ body {
   width: 100%;
   height: 100%;
 }
+
+.bg-darkwhite {
+  background-image: url('/src/assets/black&white.jpg');
+}
+
+.bg-dark {
+  background-image: url('/src/assets/dark.png');
+}
+
+.bg-desert {
+  background-image: url('/src/assets/desert.jpg');
+}
+
+.bg-forest {
+  background-image: url('/src/assets/forest.jpg');
+}
+
+.bg-moon {
+  background-image: url('/src/assets/moon.jpg');
+}
+
+.bg-rain {
+  background-image: url('/src/assets/rain.jpg');
+}
